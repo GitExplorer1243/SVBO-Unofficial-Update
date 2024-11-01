@@ -1,5 +1,5 @@
 # SVBO-Unofficial-Update
-This is an unofficial update to Theoddon's mod, Stardew Valley Balance Overhaul.
+This is the github repo of an unofficial update to Theoddon's mod, Stardew Valley Balance Overhaul.
 
 Why this update?
 
