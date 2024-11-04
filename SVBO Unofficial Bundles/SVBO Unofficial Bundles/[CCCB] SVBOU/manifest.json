@@ -1,0 +1,11 @@
+{
+	"Name": "Stardew Valley Balance Overhaul Bundles (Unoffical Update)",
+	"Author": "Nicholas Peck",
+	"Version": "1.0.4-unoffical",
+	"Description": "Stardew Valley Balance Overhaul Bundles (Unoffical Update)",
+	"UniqueID": "npeck.SVBOUBundles",
+	"UpdateKeys": ["Nexus:28600"],
+	"ContentPackFor": {
+        "UniqueID": "npeck.SVBOUBundlesLoader",
+   }
+}
