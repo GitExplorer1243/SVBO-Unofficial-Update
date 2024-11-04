@@ -19,7 +19,7 @@ Like always, as with the official version of SVBO, a new save is required for th
 
 How to install
 
-It's basically the same as the original mod, just install the main mod, and optionally, other mods that are rebalanced. If you want to play with the unofficial update's Community Center Bundles, just install that mod as well!
+To install the latest github release, just click the latest release, extract it, and copy the "SVBO Unofficial Update" file to your mods folder. If you want to play with the unofficial update's Community Center Bundles, just copy the "SVBO Unofficial Bundles" file as well!
 
 Please note that if you are playing SVE with the SVBOU's SVE or other bundles that contain SVE, please turn off the SVE's built in bundles.
 
