@@ -43,15 +43,16 @@ How do I set up those new bundles?
 Download and install the optional "SVBO Unofficial Bundles" file.
 Open config.json with notepad and set BundleVariant to your desired bundle.
 If using any bundles that contain "SVE" in the BundleVariant, please turn off the built in SVE bundles in the config of SVE.
-"SVBO" - Default.
-"SVBO_SVE" - Optimized for Stardew Valley Expanded.
-"SVBO_RSV" - Optimized for Ridgeside Village.
-"SVBO_CRN" - Optimized for Cornucopia mods.
-"SVBO_SVE_RSV" - Optimized for Stardew Valley Expanded and Ridgeside Village.
-"SVBO_SVE_CRN" - Optimized for Stardew Valley Expanded and Cornucopia mods.
-"SVBO_RSV_CRN" - Optimized for Ridgeside Village and Cornucopia mods.
+- "SVBO" - Default.
+- "SVBO_SVE" - Optimized for Stardew Valley Expanded.
+- "SVBO_RSV" - Optimized for Ridgeside Village.
+- "SVBO_CRN" - Optimized for Cornucopia mods.
+- "SVBO_SVE_RSV" - Optimized for Stardew Valley Expanded and Ridgeside Village.
+- "SVBO_SVE_CRN" - Optimized for Stardew Valley Expanded and Cornucopia mods.
+- "SVBO_RSV_CRN" - Optimized for Ridgeside Village and Cornucopia mods.
+
 See bundles ﻿for more info.
 
 Credits
 
-A big help and shoutout to the awesome Theoddon for letting me use his mod and spreadsheet! Also thanks to Minothilos for also letting me use his spectacular "SVBO Continued" for inspiration.
+A big help and shoutout to the awesome Theoddon for letting me use his mod and spreadsheet! Also thanks to Minothilos for also letting me use his spectacular "SVBO Continued" for inspiration - go check him out!
