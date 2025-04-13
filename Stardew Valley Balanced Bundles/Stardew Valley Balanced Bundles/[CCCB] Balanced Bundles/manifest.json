@@ -1,0 +1,11 @@
+{
+	"Name": "Stardew Valley Balanced Bundles",
+	"Author": "Nicholas Peck",
+	"Version": "1.0.0",
+	"Description": "Adds harder, but balanced bundles to Stardew Valley.",
+	"UniqueID": "npeck.BalancedBundles",
+	"UpdateKeys": ["Github:GitExplorer1243/SVBO-Unofficial-Update"],
+	"ContentPackFor": {
+        "UniqueID": "npeck.BalancedBundlesLoader",
+   }
+}
