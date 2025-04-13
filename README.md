@@ -1,5 +1,5 @@
 # SVBO-Unofficial-Update
-This is the github repo of an unofficial update to Theoddon's mod, Stardew Valley Balance Overhaul.
+This is the github repo of an unofficial update to Theoddon's mod, Stardew Valley Balance Overhaul. (R.I.P the nexusmods version)
 
 Why this update?
 
@@ -12,8 +12,6 @@ What does this new update contain than the original mod?
 Well, in fact, the mod now contains the SVE 1.15 content that has now been rebalanced to closely fit Theo's style. All crops, fruit and wild trees, items, recipes, food, and even farm buildings and animals have been done. It will also rebalance more SVE content such as shops and the new food and other consumables such as the Dewdrop Berry.
 
 Also, more vanilla 1.6 content has been done, like the three new monsters and the new fish.
-
-But wait! There's more! There's also built in content for more mods, coming down the line. I (possibly a few weeks or possibly a month after this mod's release) plan on doing my take on Cornucopia and add content for the new crops and flowers, the artisan products, and even the artisan machines for the first time in Cornucopia rebalancing history, and coming soon, the 300+ new cooking recipes that will be coming in the fourth mod of the suite. Other mods that might be rebalanced would be "Visit Mount Vapius", "Animal Husbandry" and more.
 
 Like always, as with the official version of SVBO, a new save is required for the intended experience. If you want to see the new content this unofficial update of this mod adds, I have made an unofficial version of Theo's spreadsheet here.
 
@@ -37,6 +35,8 @@ Here is all of the mods that the unofficial update of SVBO will support (will up
 - Stardew Valley Expanded
 - Ridgeside Village
 - Distant Lands
+- Cornucopia
+- Animal Husbandry
 
 How do I set up those new bundles?
 
@@ -46,13 +46,12 @@ If using any bundles that contain "SVE" in the BundleVariant, please turn off th
 "SVBO" - Default.
 "SVBO_SVE" - Optimized for Stardew Valley Expanded.
 "SVBO_RSV" - Optimized for Ridgeside Village.
-"SVBO_CRN" - Optimized for Cornucopia mods (coming soon).
+"SVBO_CRN" - Optimized for Cornucopia mods.
 "SVBO_SVE_RSV" - Optimized for Stardew Valley Expanded and Ridgeside Village.
-"SVBO_SVE_CRN" - Optimized for Stardew Valley Expanded and Cornucopia mods (coming soon).
-"SVBO_RSV_CRN" - Optimized for Ridgeside Village and Cornucopia mods (coming soon).
-"SVBO_SVE_RSV_CRN" - Optimized for Stardew Valley Expanded, Ridgeside Village and Cornucopia mods (coming soon).
+"SVBO_SVE_CRN" - Optimized for Stardew Valley Expanded and Cornucopia mods.
+"SVBO_RSV_CRN" - Optimized for Ridgeside Village and Cornucopia mods.
 See bundles ﻿for more info.
 
 Credits
 
-A big help and shoutout to the awesome Theoddon for letting me use his mod and spreadsheet!
+A big help and shoutout to the awesome Theoddon for letting me use his mod and spreadsheet! Also thanks to Minothilos for also letting me use his spectacular "SVBO Continued" for inspiration.
