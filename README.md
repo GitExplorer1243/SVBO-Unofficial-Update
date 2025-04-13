@@ -1,5 +1,5 @@
 # SVBO-Unofficial-Update
-This is the github repo of an unofficial update to Theoddon's mod, Stardew Valley Balance Overhaul. (R.I.P the nexusmods version)
+This is the github repo of an unofficial update to Theoddon's mod, Stardew Valley Balance Overhaul.
 
 Why this update?
 
@@ -55,4 +55,4 @@ See bundles ﻿for more info.
 
 Credits
 
-A big help and shoutout to the awesome Theoddon for letting me use his mod and spreadsheet! Also thanks to Minothilos for also letting me use his spectacular "SVBO Continued" for inspiration - go check him out!
+A big help and shoutout to the awesome Theoddon for letting me use his mod and spreadsheet!
